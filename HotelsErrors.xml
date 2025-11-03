@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Hotel>
 	<!--Example hotel provided-->
-	<Hotel>
+	<Hotel Rating = "4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
@@ -17,7 +17,7 @@
 	<Hotel Rating ="9.7">
 		<Name>The Peninsula Chicago</Name>
 		<Phone>+1 312 337 2888</Phone>
-		<Address NearestAirport ="Chicago Midway International Airport">
+		<Address>
 			<Number>108</Number>
 			<Street>E Superior Street</Street>
 			<City>Chicago</City>

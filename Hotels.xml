@@ -86,10 +86,10 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="9.1">
+	<Hotel>
 		<Name>The Breakers Palm Beach</Name>
 		<Phone>(561) 655-6611</Phone>
-		<Address>
+		<Address NearestAirport="Palm Beach International Airport">
 			<Number>1</Number>
 			<Street>South County Road</Street>
 			<City>Palm Beach</City>
@@ -98,10 +98,10 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="9.2">
+	<Hotel>
 		<Name>The Little Nell</Name>
 		<Phone>(970) 920-4600</Phone>
-		<Address>
+		<Address NearestAirport="Aspen/Pitkin County Airport">
 			<Number>675</Number>
 			<Street>E Durant Avenue</Street>
 			<City>Aspen</City>
@@ -110,10 +110,10 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="9.0">
+	<Hotel>
 		<Name>Fairmont Grand Del Mar</Name>
 		<Phone>(858) 314-2000</Phone>
-		<Address>
+		<Address NearestAirport="San Diego International Airport">
 			<Number>5300</Number>
 			<Street>Grand Del Mar Court</Street>
 			<City>San Diego</City>
@@ -122,10 +122,10 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="8.5">
+	<Hotel>
 		<Name>Hilton Los Angeles Airport</Name>
 		<Phone>(310) 645-2200</Phone>
-		<Address>
+		<Address NearestAirport="Los Angeles International Airport">
 			<Number>5711</Number>
 			<Street>West Century Boulevard</Street>
 			<City>Los Angeles</City>
