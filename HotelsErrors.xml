@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotel>
+	<!--Example hotel provided-->
+	<Hotel>
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport ="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating ="9.7">
+		<Name>The Peninsula Chicago</Name>
+		<Phone>+1 312 337 2888</Phone>
+		<Address NearestAirport ="Chicago Midway International Airport">
+			<Number>108</Number>
+			<Street>E Superior Street</Street>
+			<City>Chicago</City>
+			<State>IL</State>
+			<Zip>60611</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating ="4.6">
+		<Name>Four Seasons Hotel Los Angeles at Beverly Hills</Name>
+		<Address NearestAirport ="Los Angeles International Airport">
+			<Number>300</Number>
+			<Street>S Doheny Dr</Street>
+			<City>Los Angeles</City>
+			<State>CA</State>
+			<Zip>90048</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating ="4">
+		<Name>Hotel Bel‑Air</Name>
+		<Phone>(310) 472-1211</Phone>
+		<Address NearestAirport ="Los Angeles International Airport">
+			<Number>701</Number>
+			<Street>Stone Canyon Rd</Street>
+			<City>Los Angeles</City>
+			<State>CA</State>
+			<Zip>90077</Zip>
+	</Hotel>
+
+	<Hotel Rating ="9.0">
+		<Name>Granger Hotel San Diego Downtown</Name>
+		<Name>Granger Hotel San Diego</Name>
+		<Phone>(619) 485-5006</Phone>
+		<Address NearestAirport ="San Diego International Airportr">
+			<Number>964</Number>
+			<Street>Fifth Ave</Street>
+			<City>San Diego</City>
+			<State>CA</State>
+			<Zip>92101</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="9.5">
+		<Name>Waldorf Astoria New York</Name>
+		<Phone>(212) 355-3000</Phone>
+		<Address NearestAirport="LaGuardia Airport">
+			<Number>301</Number>
+			<Street>Park Avenue</Street>
+			<City>New York</City>
+			<State>NY</State>
+			<Zip>10022</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="9.3">
+		<Name>The Jefferson, Washington, D.C.</Name>
+		<Phone>(202) 448-2300</Phone>
+		<Address NearestAirport="Ronald Reagan Washington National Airport">
+			<Number>1200</Number>
+			<Street>16th Street NW</Street>
+			<City>Washington</City>
+			<State>DC</State>
+			<Zip>20036</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="9.1">
+		<Name>The Breakers Palm Beach</Name>
+		<Phone>(561) 655-6611</Phone>
+		<Address>
+			<Number>1</Number>
+			<Street>South County Road</Street>
+			<City>Palm Beach</City>
+			<State>FL</State>
+			<Zip>33480</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="9.2">
+		<Name>The Little Nell</Name>
+		<Phone>(970) 920-4600</Phone>
+		<Address>
+			<Number>675</Number>
+			<Street>E Durant Avenue</Street>
+			<City>Aspen</City>
+			<State>CO</State>
+			<Zip>81611</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="9.0">
+		<Name>Fairmont Grand Del Mar</Name>
+		<Phone>(858) 314-2000</Phone>
+		<Address>
+			<Number>5300</Number>
+			<Street>Grand Del Mar Court</Street>
+			<City>San Diego</City>
+			<State>CA</State>
+			<Zip>92130</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Hilton Los Angeles Airport</Name>
+		<Phone>(310) 645-2200</Phone>
+		<Address>
+			<Number>5711</Number>
+			<Street>West Century Boulevard</Street>
+			<City>Los Angeles</City>
+			<State>CA</State>
+			<Zip>90045</Zip>
+		</Address>
+	</Hotel>
+
+
+</Hotel>
+
+
